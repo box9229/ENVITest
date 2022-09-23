@@ -15,6 +15,8 @@ https://dotblogs.com.tw/ProgrammerFighting/2018/07/26/163310
 各位也可參考看看
 
 電子發票資料Turnkey交換範例
+https://github.com/RichieHsu/ENVITest
+
 
 完全沒開發過跟電子發票有關的東西，一直不清楚他們得流程
 
